@@ -1,8 +1,0 @@
-pip install jupyterlab
-pip install notebook
-pip install pandas
-pip install sklearn
-
-
-jupyter-lab
-jupyter notebook
